@@ -5,6 +5,8 @@ This repository contains the complete source code for **AI Story Weaver**, an ad
 The platform leverages generative artificial intelligence to deliver highly personalized, multimodal language learning experiences by dynamically generating level-specific stories, custom visual illustrations, neural audio narrations, and reading comprehension assessments.
 
 ---
+## 📸 Application Screenshots
+<img width="1029" height="897" alt="Ekran görüntüsü 2026-05-31 232046" src="https://github.com/user-attachments/assets/67f050f1-2fb5-4112-8e82-6d2733a14f1d" />
 
 ## 🚀 Key Features
 
