@@ -1,0 +1,11 @@
+# Şifreler ve Gizli Veriler (KESİNLİKLE YÜKLENMEYECEK)
+.env
+
+# Python Sanal Ortam ve Önbellekleri
+.venv/
+__pycache__/
+*.pyc
+
+# Next.js Derleme ve Bağımlılık Dosyaları
+frontend/node_modules/
+frontend/.next/
