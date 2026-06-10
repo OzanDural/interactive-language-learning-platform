@@ -68,13 +68,13 @@ uvicorn backend:app --reload
 
 The backend server is now running at: http://127.0.0.1:8000
 ```
-2. Environment Variables (.env)
+### 2. Environment Variables (.env)
 Ensure you have a .env file in the same directory as your backend with the following keys:
 GEMINI_API_KEY=your_google_gemini_api_key_here
 CLOUDFLARE_ACCOUNT_ID=your_cloudflare_account_id_here
 CLOUDFLARE_API_TOKEN=your_cloudflare_api_token_here
 
-3. Frontend Configuration & Startup (Terminal 2)
+### 3. Frontend Configuration & Startup (Terminal 2)
 Open a second terminal window, navigate specifically to your frontend folder, and start the Next.js engine:
 # Navigate into the frontend directory
 cd frontend
