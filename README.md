@@ -67,7 +67,7 @@ pip install fastapi uvicorn pydantic google-genai httpx edge-tts python-dotenv
 uvicorn backend:app --reload
 
 The backend server is now running at: http://127.0.0.1:8000
-
+```
 2. Environment Variables (.env)
 Ensure you have a .env file in the same directory as your backend with the following keys:
 GEMINI_API_KEY=your_google_gemini_api_key_here
