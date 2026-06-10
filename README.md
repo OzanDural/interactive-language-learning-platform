@@ -6,6 +6,14 @@ The platform leverages generative artificial intelligence to deliver highly pers
 
 ---
 ## 📸 Application Screenshots
+<img width="1104" height="536" alt="Ekran görüntüsü 2026-05-31 231658" src="https://github.com/user-attachments/assets/8526192b-c91b-4724-8e5d-f08cade4e0db" />
+
+<img width="1094" height="537" alt="Ekran görüntüsü 2026-05-31 231712" src="https://github.com/user-attachments/assets/7cce0524-8dc2-437a-b1f6-050cb87f4a05" />
+
+<img width="1303" height="898" alt="Ekran görüntüsü 2026-05-31 231906" src="https://github.com/user-attachments/assets/ec1a4f1c-fefc-45c8-8910-2242e06ea9b4" />
+
+<img width="1042" height="886" alt="Ekran görüntüsü 2026-05-31 232009" src="https://github.com/user-attachments/assets/aea06689-c00a-494b-a4c0-b85cd68f9cd7" />
+
 <img width="1029" height="897" alt="Ekran görüntüsü 2026-05-31 232046" src="https://github.com/user-attachments/assets/67f050f1-2fb5-4112-8e82-6d2733a14f1d" />
 
 ## 🚀 Key Features
